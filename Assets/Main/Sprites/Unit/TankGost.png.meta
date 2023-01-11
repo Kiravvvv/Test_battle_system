@@ -1,0 +1,2698 @@
+fileFormatVersion: 2
+guid: 4c2b1b43898931f4391e17bdf68363b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_1_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 637
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e425499e08e8d42871be695e818d2f
+      internalID: 922782961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 637
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab577cbb3553dff419f959c97679bb26
+      internalID: -978137877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 637
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258ef957cad16b48bc6cf4fd8964feb
+      internalID: 912730353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 637
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e930701f292cd48b591fc7305fbafa
+      internalID: -1378165950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 637
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec465f4f95b7144b83513cf3742007
+      internalID: -1005357277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 637
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cc5ea4c8a6514d97d089eb56aec20
+      internalID: 546183684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 637
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d073ffbdecf5458a8cb0bcdaaa565
+      internalID: -538124847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_back (0)
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 629
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65ba590a37f7647a9d4259246d2eec
+      internalID: -2023893820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_back (1)
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 629
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e3e29abc93a4b4c85fbf72eaeaa543
+      internalID: 1869432005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_back (2)
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 629
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0b5c7cf7dec44eb126b12bc011ae3
+      internalID: -1949328872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1_back (3)
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 629
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae465b0d1086c4eb4acb279d189974
+      internalID: -33693708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_back (0)
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 567
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7e1b4d46e0c14893c36e970e3fee4
+      internalID: -1206885011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_back (1)
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 567
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92b5b92233d7445b6e87a626c6c43e
+      internalID: -1965795318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_back (2)
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 567
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e4c25dfc5add49974e6cb54118834
+      internalID: 1823284367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_back (3)
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 567
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba8e3fbbee75145ae1cc6a10173458
+      internalID: -2012411696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_back (0)
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 597
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d28b20d1074ec418555713fa41be85
+      internalID: 1556661155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_back (1)
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 597
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc41fb856e8ae4f93b8937cddaee48
+      internalID: -1665036000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_back (2)
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 597
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba224bfde8710e049866b6751b6ec2da
+      internalID: -797429659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_back (3)
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 597
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1307ebbc58e084b8e4bb940f50ac61
+      internalID: 409556051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 562
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14432c33f1c1f254abe3fc87033bb015
+      internalID: 823922912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 562
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750d25eae4d4cc4f94597d2519ccd4c
+      internalID: -710659254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 562
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5351055575f64489015d8fdc727fef
+      internalID: -323723157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 562
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21395e31757a04ea1fb5bf982dc064
+      internalID: -632112613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 562
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d460b77313bf46b3a1e5f40817452
+      internalID: -249143821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 562
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23c44a480c5b94ba19a72d3fd79a91
+      internalID: -516821853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 562
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900bf77783a287948a1a90878d73322a
+      internalID: 610364949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (7)
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 562
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492cc7344fe7f4d47a3d862bc3564270
+      internalID: 1684594071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2_forward (8)
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 562
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b60e09e3c83444ad4cc549a07ec7c
+      internalID: -911274278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 499
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6775514efd8f4749b51bd0ee2bc7a05
+      internalID: -1586928897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 499
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7aebe9cf570f48a59b4bc96a2d228
+      internalID: 2047314744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 499
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d844c590263a1d045b60b67054895a9b
+      internalID: -424171913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 499
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d6a99d3692d04ab75cfef0094b26f
+      internalID: 1684956197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 487
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6799dc5e45f40d4d84921a11b40c905
+      internalID: 611299946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 487
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b0b470f7c575c4eb6460477a49c44d
+      internalID: -1032953676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 487
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1288f8abcdc2e84085fbb86dc67a8bf
+      internalID: 128406095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 487
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadfecc9bbdf934186fba91824e72f9
+      internalID: -779204923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 487
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e066dec588f992446a82b743a2c5fe59
+      internalID: 943736490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 400
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b06418885d9b4997d38ff5be7a90d
+      internalID: -1571472929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 400
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349eba1694572cd41a403a89ccaf60f6
+      internalID: 1024343111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e8c288434cd6d41b1c4bbae66d42d1
+      internalID: -549346511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 400
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5011774611d76418959759f1f877a9
+      internalID: -2090258271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 400
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e15c436fd80f8942b4191b85f15571f
+      internalID: 486640941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 400
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b4ec663ccd4c14885641db632da906
+      internalID: -442984997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 400
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5672571049771b74c8325bd6b821f6e4
+      internalID: 1467715730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 429
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc1b81c7bf3504b951b909873a198d
+      internalID: 831979621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 429
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a93a9041904654bac8b00034f5ecde
+      internalID: -381699688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 429
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb5e3f85e18c64aa687be2eb33f74c
+      internalID: 1483800580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 429
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52db6bf8b83f62429751982ef00a975
+      internalID: 822185003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 429
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e5f7fec9519f04e9bcea659d51d241
+      internalID: 1214305013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 429
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4b5c6ccf5e7e4e8bc74a3dd4bc490
+      internalID: -2015390683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 429
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de34fbd0f9cd0147aa8dfefb7b2b492
+      internalID: -2136379739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (7)
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 429
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e273fbeff0cb48885987ea07c6c49
+      internalID: 614603815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (8)
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 429
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ba1fddf634df4898e9276a58ea476
+      internalID: -1893061858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (9)
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 429
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c612f7c9dc2cd42bff90dd39657d3f
+      internalID: -952909422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (10)
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 429
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f91da10db7ce24bb491f5b43ec852d
+      internalID: -969194562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (11)
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 429
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b192fb152f2ba8042926d5f9bdc89d8a
+      internalID: -317769532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (12)
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 429
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aed2ba5550e5b46bdafa8e10e57637
+      internalID: 1511395412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (13)
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 429
+        width: 57
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64cb108dbf97924aae4657ea17f5e41
+      internalID: 2056184795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (14)
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 429
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca0304e13f85f47b40d591c412add0
+      internalID: 349707594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (15)
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 429
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca27ef5d897464ba532042b6415487
+      internalID: 1015032580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (16)
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 429
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7703b5bf714e95f448773aec3b8ff7e1
+      internalID: 2048551931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (17)
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 429
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c1bb6ebd850d40ab3e8b4aa9aa5d0
+      internalID: -725577688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_forward (18)
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 429
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fdbd523f9b26f46a3f52fdb2a892dd
+      internalID: 2083224479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 313
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328bd99fc6bd03849a559b262dff2d38
+      internalID: -1016502116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 313
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5f4485f84e6143a0fb21b17b9d801
+      internalID: -2140679199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 313
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8781668abf421a14eb457757edb7a87c
+      internalID: 764410683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 314
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff26de1cbc0cb64f987de2a7e446d9f
+      internalID: 1649529436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 313
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd57296f41e3cc4985db293e242a234
+      internalID: 1782516308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 313
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753d7fead350034eb05dabb2fa06c67
+      internalID: -303799371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alert_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 314
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216cdbde91915e42aee1e4f80e05cd7
+      internalID: 1164045939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 319
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e8f778d8991b4c8bee26356607985
+      internalID: -1695151178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 319
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eacaa11788cab4b94d5a461154c873
+      internalID: -1559880068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 319
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e7188652c83f4daeb09ccf796c5b3
+      internalID: -191930768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 319
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49e0080321cbb489f2e1696edba182
+      internalID: 946477935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 319
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef06e87994d0c9a4187e656cdeb50bbe
+      internalID: 542312855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 319
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c048b2b84a7e84283f18a45f8bffb7
+      internalID: 1664018370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 319
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df5c54e50f465c4ea0544a6b9fd2ffc
+      internalID: -1584174727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (7)
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 319
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752f4235a24cfd4295c9d8bd19d0589
+      internalID: 278007032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (8)
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 319
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd56275c63c6640825d7e40e7dd449
+      internalID: -1727890575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (9)
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 319
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257678b309657414cb4781e1e5ff50dd
+      internalID: 94435368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (10)
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 319
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e27797c0d20b784bb3a87d685b42c59
+      internalID: 515592860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (11)
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 319
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1887a5d32a47354a983ce2abb92c74c
+      internalID: -2060883842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (12)
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 319
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a4a5f718e8fc43b855159cf0b5d52
+      internalID: 101303486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (13)
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 319
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b043fdf556c442b74f13c002f2731
+      internalID: -185069297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (14)
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 319
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68615ea0c23d9104ca04e939ce67d33d
+      internalID: -838383310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_forward (15)
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 319
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c887f4b61202498d126d18f2daac4
+      internalID: -1251768488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 176
+        width: 58
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c7505fc2a4df46ba0fd981e268f7f
+      internalID: -678285853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (7)
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 185
+        width: 78
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724189ca12b703249a0e5d54fc8ec074
+      internalID: 113890736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 176
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b85f82e931a9ad47b92960c4894f40c
+      internalID: 1725558386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 176
+        width: 51
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a8362dadbbbb4199900de32ae6b26
+      internalID: -2051897782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 176
+        width: 77
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9f65f4b201f6459262300916cb4a2
+      internalID: 205804900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (8)
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 188
+        width: 79
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce929ea3587b5c45b9fff8fedf918c9
+      internalID: -672573529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (9)
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 190
+        width: 79
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb4a7287e455d46a121159e9a3edc1
+      internalID: 863144205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff26e6a656fc2344bfe36f638c62dcd
+      internalID: -1773705114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 179
+        width: 87
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38bab66fb00824cbecdf43028fecfb
+      internalID: -1114023004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 180
+        width: 85
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4e956dde4d244e9a69053670ab1d9
+      internalID: -1997215132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (10)
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 191
+        width: 76
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202dc6dfec497814492018493d30b9a4
+      internalID: 1034345667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (11)
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 191
+        width: 48
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58bd49b937ebbf4495ecc5352b252d9
+      internalID: -205228709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (12)
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 190
+        width: 48
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350552545c9add499dc1dadcc7984d3
+      internalID: -1910177319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_forward (13)
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 190
+        width: 48
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0585d02f51c7144b97e397051ad5b68
+      internalID: 1705349044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572dcdcc45942364aab2a82441caac92
+      internalID: -2143081765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (6)
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 85
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c464023d8d9e8d4dae138f501f4aff2
+      internalID: 1136907934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 84
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922a868a321a394eb25275cf5b01a8c
+      internalID: 508597607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 84
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992039e27473e240aee436f406373b2
+      internalID: -596504473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2668a772ff5f94a8244902f80b5b75
+      internalID: 149570300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b278c720b68bb34985d4c39abb44884
+      internalID: -1964538743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5_forward (5)
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 84
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104171c94d8d0f646b3702cce1bca41d
+      internalID: -1637200247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harm_forward (0)
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583b5a31fd038a44a9d10eba9823b07
+      internalID: 1559690680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harm_forward (1)
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c82f77be58d8b4b964898ccd92423c
+      internalID: 583621177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harm_forward (2)
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c676d452073144bcbe22fd82fda64
+      internalID: 1280504182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harm_forward (3)
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d579408543ebb4bbc79871b4caa619
+      internalID: 1564614453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harm_forward (4)
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40abca0d408f541a3298ef1a5c1e5d
+      internalID: -1725971966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4ed59173470bdb04c8809a53f80f66b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TankGost_49: 590778470
+      Idle_4_forward (0): -1571472929
+      Attack_2_forward (0): -1695151178
+      Dead_forward (10): 1034345667
+      TankGost_0: 601630262
+      Idle_4_forward (4): 486640941
+      TankGost_29: -274699972
+      TankGost_62: -980060564
+      Idle_1_forward (5): 546183684
+      TankGost_52: -2087792312
+      TankGost_177: -1194061421
+      Dead_forward (6): -1997215132
+      Idle_1_back (1): 1869432005
+      Harm_forward (1): 583621177
+      TankGost_198: 684944054
+      Idle_5_forward (0): 508597607
+      TankGost_119: -1379157992
+      TankGost_146: 905578471
+      TankGost_63: -1038222146
+      Idle_3_forward (4): 943736490
+      Attack_2_forward (9): 94435368
+      Attack_1_forward (12): 1511395412
+      TankGost_21: 1070972998
+      TankGost_70: 1812748380
+      Attack_2_forward (13): -185069297
+      Idle_2_forward (3): -632112613
+      TankGost_174: 871068918
+      TankGost_50: 1509935073
+      TankGost_140: -125227769
+      TankGost_118: -40558366
+      TankGost_109: 1567655179
+      TankGost_23: 54016096
+      Attack_2_forward (15): -1251768488
+      TankGost_167: -208088920
+      Idle_3_forward (3): -779204923
+      TankGost_110: 1534404302
+      TankGost_61: -1374267773
+      Harm_forward (2): 1280504182
+      TankGost_51: -1835459927
+      Idle_2_forward (8): -911274278
+      Walk_back (0): 1556661155
+      TankGost_138: -578982129
+      Idle_5_forward (4): -1964538743
+      TankGost_194: -1902991556
+      TankGost_69: -1673202445
+      Idle_5_forward (5): -1637200247
+      Harm_forward (3): 1564614453
+      Dead_forward (1): 1725558386
+      Idle_2_forward (0): 823922912
+      TankGost_48: -799922907
+      TankGost_55: 1664310928
+      Attack_2_forward (8): -1727890575
+      TankGost_142: -91548487
+      Walk_forward (1): 2047314744
+      Attack_1_forward (7): 614603815
+      Attack_1_forward (3): 822185003
+      TankGost_149: -1405145976
+      Idle_4_forward (5): -442984997
+      Idle_2_forward (1): -710659254
+      Dead_forward (3): -678285853
+      Idle_2_back (0): -1206885011
+      TankGost_148: -1239577261
+      Idle_5_forward (3): -2143081765
+      TankGost_197: -211224128
+      Attack_1_forward (8): -1893061858
+      TankGost_89: -1006992910
+      Attack_1_forward (14): 349707594
+      Attack_2_forward (5): 1664018370
+      TankGost_186: -1979778559
+      TankGost_195: 798548308
+      Idle_3_forward (2): 128406095
+      Attack_1_forward (6): -2136379739
+      TankGost_77: 979202088
+      TankGost_179: -285282684
+      Walk_forward (0): -1586928897
+      Idle_1_forward (3): -1378165950
+      TankGost_185: -6489210
+      Idle_2_forward (5): -516821853
+      Idle_1_back (0): -2023893820
+      Alert_forward (3): 1649529436
+      Idle_3_forward (1): -1032953676
+      TankGost_166: 416693091
+      Walk_forward (2): -424171913
+      Walk_back (3): 409556051
+      TankGost_71: -1845909820
+      Dead_forward (8): -672573529
+      Idle_1_forward (1): -978137877
+      Idle_4_forward (6): 1467715730
+      Attack_1_forward (15): 1015032580
+      Attack_2_forward (12): 101303486
+      Idle_1_back (2): -1949328872
+      TankGost_78: -1508126247
+      Dead_forward (12): -1910177319
+      Attack_1_forward (1): -381699688
+      Dead_forward (4): 205804900
+      TankGost_80: -1844247848
+      Alert_forward (0): -1016502116
+      TankGost_24: 1790327816
+      Attack_1_forward (18): 2083224479
+      Attack_2_forward (10): 515592860
+      Walk_back (1): -1665036000
+      TankGost_31: -2114538039
+      Idle_1_forward (0): 922782961
+      Alert_forward (5): -303799371
+      Alert_forward (1): -2140679199
+      TankGost_60: -588512014
+      TankGost_20: 1756593972
+      TankGost_53: 1468258836
+      TankGost_160: 1138983414
+      TankGost_152: 863392625
+      TankGost_145: 961262566
+      Dead_forward (7): 113890736
+      TankGost_151: 413306128
+      Dead_forward (11): -205228709
+      Harm_forward (4): -1725971966
+      TankGost_178: -262081279
+      Attack_2_forward (4): 542312855
+      Dead_forward (9): 863144205
+      Idle_1_forward (2): 912730353
+      Idle_5_forward (1): -596504473
+      Attack_1_forward (4): 1214305013
+      Alert_forward (4): 1782516308
+      Walk_forward (3): 1684956197
+      TankGost_72: -1003424973
+      Idle_2_forward (2): -323723157
+      Attack_2_forward (2): -191930768
+      TankGost_17: -437990181
+      TankGost_196: 75032114
+      Idle_2_forward (7): 1684594071
+      Attack_1_forward (17): -725577688
+      TankGost_153: -1336923300
+      Idle_2_back (1): -1965795318
+      Idle_3_forward (0): 611299946
+      TankGost_74: 1141259814
+      TankGost_9: 1110463458
+      TankGost_76: -977293583
+      TankGost_18: 1460464376
+      TankGost_30: -629484201
+      Dead_forward (5): -1114023004
+      TankGost_37: 1648911656
+      TankGost_192: 924927948
+      TankGost_22: -556739275
+      Idle_5_forward (6): 1136907934
+      TankGost_73: -34338276
+      Alert_forward (6): 1164045939
+      Dead_forward (0): -1773705114
+      Attack_1_forward (9): -952909422
+      TankGost_143: -2015005225
+      Attack_1_forward (10): -969194562
+      Idle_2_forward (4): -249143821
+      TankGost_120: 600293053
+      Attack_2_forward (7): 278007032
+      TankGost_54: -681540198
+      TankGost_19: -514980513
+      TankGost_144: 835620998
+      TankGost_139: -2077320102
+      Attack_2_forward (3): 946477935
+      TankGost_88: -1095374995
+      Attack_1_forward (16): 2048551931
+      TankGost_168: 542900595
+      TankGost_158: -1849075902
+      Attack_1_forward (5): -2015390683
+      TankGost_137: -997051707
+      Idle_1_forward (6): -538124847
+      Dead_forward (2): -2051897782
+      TankGost_16: -1049548645
+      Dead_forward (13): 1705349044
+      TankGost_38: 225355709
+      TankGost_193: 1165887388
+      TankGost_79: -1328674107
+      TankGost_8: -1373652005
+      Alert_forward (2): 764410683
+      Harm_forward (0): 1559690680
+      Idle_1_back (3): -33693708
+      TankGost_10: 713536499
+      Idle_1_forward (4): -1005357277
+      TankGost_141: -1941338495
+      Attack_1_forward (2): 1483800580
+      TankGost_11: -620577777
+      Attack_1_forward (0): 831979621
+      TankGost_163: 260295903
+      Attack_1_forward (11): -317769532
+      Idle_2_back (3): -2012411696
+      Idle_4_forward (2): -549346511
+      Attack_2_forward (1): -1559880068
+      TankGost_36: -1483492342
+      Idle_2_back (2): 1823284367
+      Idle_4_forward (3): -2090258271
+      Walk_back (2): -797429659
+      Attack_2_forward (14): -838383310
+      Idle_4_forward (1): 1024343111
+      Idle_5_forward (2): 149570300
+      TankGost_159: 196176915
+      Attack_2_forward (11): -2060883842
+      Attack_1_forward (13): 2056184795
+      TankGost_75: 769544378
+      Idle_2_forward (6): 610364949
+      Attack_2_forward (6): -1584174727
+      TankGost_147: -1115923930
+      TankGost_7: 1791840607
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
